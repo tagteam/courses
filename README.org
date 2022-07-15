@@ -1,0 +1,13 @@
+* About
+
+Here we draft course descriptions.
+
+* Links
+
+See the course catalog for dates and how to subscribe:
+
+[[https://phdcourses.ku.dk/frontPlanner/DetailKursus.aspx][Graduate school of health and medical science: Course catalog]]
+
+See also the courses shown on homepage of the section of biostatistics:
+
+https://publichealth.ku.dk/about-the-department/biostat/

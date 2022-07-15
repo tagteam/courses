@@ -1,0 +1,78 @@
+* Course description
+
+The course description will be published in our online course
+catalogue and in the national database for PhD courses.
+
+*** Course title: Registry Data ManageR
+
+*** Learning objectives
+
+A student who has met the objectives of the course will be able to:
+
+ 1. know how to ask a meaningful question before looking into the data 
+ 2. skills to setup a project in R studio and organize a reproducible analysis using the R-package targets
+ 3. have knowledge of statistical methods for registry data 
+ 4. organize and merge data from multiple sources using the R-package data.table
+ 5. analyse registry data using the principles of targeted statistical learning using the R-package ltmle
+
+
+*** Content
+
+
+
+*** Participants
+
+The course is tailored for Ph.D.-students in health sciences who
+already have taken the Ph.D.-course ``Basic Statistics for Health
+Researchers'' or have a similar knowledge about statistics, and who
+wish to have more knowledge about the statistical methods underlying
+the approaches presented in the course.
+
+A basic knowledge of statistics and previous experience with the
+software program R is expected. However, little or no previous
+exposure to the topics covered is expected.
+
+Describe the target group of the course and required qualifications
+(if any) by the participating PhD students.
+
+*** Relevance to graduate programmes
+
+The course is relevant to PhD students from the following graduate
+programmes at the Graduate School of Health and Medical Sciences,
+UCPH.
+
+
+*** Language
+
+English
+
+*** Form
+
+The course will consist of 4 full days with lectures before lunch and
+hands-on computer exercises after lunch each day. 
+
+*** Course director
+Thomas Gerds, Professor, Section of Biostatistics, Department of Public Health, University of Copenhagen
+tag@biostat.ku.dk
+
+*** Teachers
+
+- Christian Torp-Pedersen, Nothern Sealands Hospital and Section of Biostatistics, Department of Public Health, University of Copenhagen
+- Marvin Wright, Leibniz Institute for Prevention Research and Epidemiology, Bremen, Germany
+- Zeyi Wang, Postdoctoral scholar at Division of Biostatistics, University of California, Berkeley
+- Thomas A. Gerds, Section of Biostatistics, Department of Public Health, University of Copenhagen
+
+*** Dates
+Monday 12, 13, 14 and 15 December 2022, all days 8.00-15.00 
+
+*** Course location
+CSS
+
+*** Registration
+
+Please register before 7 November 2022 (Insert date - the Graduate School recommends 4 weeks before course start).
+
+Seats to PhD students from other Danish universities will be allocated
+on a first-come, first-served basis and according to the applicable
+rules.  Applications from other participants will be considered after
+the last day of enrolment.
