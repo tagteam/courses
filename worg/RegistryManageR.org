@@ -18,7 +18,28 @@ A student who has met the objectives of the course will be able to:
 
 *** Content
 
+The course has two aims:
 
+1. Participants learn data management with R, especially with respect
+   to working with data from Danish registers. During the computer
+   exercises participants will learn how to move a given data analysis
+   project from the often encountered situation of a messy 1-room
+   appartment to a functional multiroom laboratory that invites
+   collaborators to follow the workflow. This first part comprises
+   data cleaning, data merging and data documentation as well as an
+   introduction to the R-package targets. Once the data are setup
+
+2. International experts are giving lectures about recent developments
+   in statistical methods for register analyses. Here the aim is
+   inspiration and the lectures should be about methods that are as
+   complex as they have to be to solve a real world problem, and
+   should neither simplify the data nor the methods only for the sake
+   of teaching success. The tentative list of topics is:
+
+   - Thomas: roadmap of targeted statistical learning
+   - Christian: changing focus from hazard ratios to average treatment effects
+   - Marvin: machine learning (forests/neural networks)
+   - Zeyi: longitudinal minimum loss estimation (LTMLE)
 
 *** Participants
 
